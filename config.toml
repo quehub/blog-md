@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.203050.xyz/"
 title = "Mainroad"
 languageCode = "zh-cn"
 paginate = "17" # Number of posts per page
